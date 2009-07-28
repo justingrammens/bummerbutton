@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bummer Button</string>
+    <string name="about_label">About</string>
+    <string name="about_shortcut">a</string> 
+    <string name="about_title">About Bummer Button</string>
+</resources>
